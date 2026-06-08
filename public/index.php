@@ -23,3 +23,5 @@ switch ($rota) {
         include "../app/views/home.php";
         break;
 }
+
+?>
